@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @menescein
-- 👀 I am interested in android application development
-- 🌱 
-I'm learning java right now
+- 👀 I am interested in android application development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
