@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @menescein
-- 👀 I am interested in android application development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently learning C#-.Net Core
+- How to reach me inceem01@gmail.com
+
+
 
 <!---
 menescein/menescein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
