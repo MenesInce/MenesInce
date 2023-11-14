@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @menescein
+- 👋 Hi, I’m Meneş İnce
 - 👀 I’m currently learning C#-.Net Core
 - How to reach me inceem01@gmail.com
 
