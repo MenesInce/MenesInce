@@ -1,6 +1,3 @@
- [![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.c-sharpcorner.com%2Farticle%2Fget-started-with-kotlin%2F&psig=AOvVaw19Bc8Dp-MIYWiqAhjXuJ75&ust=1701344633894000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDmk-aQ6YIDFQAAAAAdAAAAABAE](https://www.google.com/search?q=java+kotlin+c%23+logo&tbm=isch&ved=2ahUKEwiEppuuj-mCAxUM0AIHHSNuAXwQ2-cCegQIABAA&oq=java+kotlin+c%23+logo&gs_lcp=CgNpbWcQAzoFCAAQgAQ6CggAEIAEEIoFEEM6BAgAEB46BggAEAUQHjoHCCMQ6gIQJzoECCMQJzoICAAQgAQQsQM6BAgAEAM6BwgAEIAEEBM6CAgAEAUQHhATOggIABAIEB4QEzoGCAAQHhATOgYIABAIEB5Q9AtY925gnXFoAXAAeASAAcEBiAGoIZIBBDAuMjWYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=eSJnZcSFEIygi-gPo9yF4Ac&bih=747&biw=1536#imgrc=aP-6mCwB_LMD1M))]
-
-
 
 
 <h1 align="center">Hi 👋, I'm Meneş İnce</h1>
